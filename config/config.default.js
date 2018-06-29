@@ -13,4 +13,6 @@ exports.cloudinary = {
   image: '<your image url>',
   video: '<your video url>',
   audio: '<your audio url>',
+  app: true,
+  agent: false
 };
