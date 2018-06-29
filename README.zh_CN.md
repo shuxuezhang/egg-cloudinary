@@ -54,7 +54,8 @@ exports.cloudinary = {
 ```
 
 ## 使用场景
-
+没有上传到npm 上   可以软连接测试   npm link
+在应用中使用   app.cloudinary.creat.方法
 - Why and What: 描述为什么会有这个插件，它主要在完成一件什么事情。
 尽可能描述详细。
 - How: 描述这个插件是怎样使用的，具体的示例代码，甚至提供一个完整的示例，并给出链接。
